@@ -1,0 +1,23 @@
+{
+  "name": "animated.js",
+  "main": "animated.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yufeiminds/animated.js",
+  "authors": [
+    "Yufei Li <yufeiminds@gmail.com>"
+  ],
+  "description": "It is a jQuery plugin, wrapper for animated.css and waypoints.js, animate trigger by scroll event.",
+  "keywords": [
+    "animate",
+    "scroll",
+    "waypoints"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
