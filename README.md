@@ -18,7 +18,7 @@ You can get the source from github, or install it by bower.
 
 ### Default settings
 
-```json
+```javascript
     {
         'animate_getter': function(e) { return e.data('animated'); },
     }
